@@ -27,7 +27,7 @@ Viene creato quindi il database ***database.db*** da riga di comando che conterr
 
 I dati vengono inseriti nella tabella tramite il comando SQL ***INSERT INTO*** specificando poi la tabella e i campi ***Compagni (NOME, COGNOME, EMAIL)***, seguono i valori ***VALUES ('Andrea', 'Alvigini', 'andreaalvigini@gmail.com'), ...***.
 
-Anche in questo caso lo script SQL viene salvato in un file dall'estensione .sql  ***insert_dummydata.sql*** eseguito poi da terminale.
+Anche in questo caso lo script SQL viene salvato in un file dall'estensione .sql  ***insert_dummy_data.sql*** eseguito poi da terminale.
 
 Di seguito il codice:
 ```sql
